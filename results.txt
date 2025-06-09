@@ -5,4 +5,4 @@ Large_Circle	-100.0
 Fast	-100.0
 
 Score	-100.0
-grade	-5.0
+grade	-15.714285714285708
